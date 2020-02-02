@@ -2,7 +2,7 @@
 
 Find the perfect gift for that special someone or your friends! All it takes is a simple click!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We Have prices ranging from $-$
 
 ### Markdown
 
