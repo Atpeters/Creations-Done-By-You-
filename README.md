@@ -4,6 +4,8 @@ Find the perfect gift for that special someone or your friends! All it takes is 
 
 We Have prices ranging from $-$
 
+## Take A Look
+
 
 
 
